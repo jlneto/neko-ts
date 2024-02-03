@@ -1,4 +1,4 @@
-import NekoGif from "./neko.gif";
+import NekoGif from "./finn.gif";
 
 export enum NekoSizeVariations {
   SMALL = 32,
